@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5502cc97-14cb-42d6-a886-6c97514c332a" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/com/yyw/test/TtssTS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yyw/test/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yyw/test/test.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/helloword.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,24 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/yyw/test/test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-              <folding>
-                <element signature="e#86#87#0" expanded="true" />
-                <element signature="e#134#135#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/yyw/test/TtssTS.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="125">
-              <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+              <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
               <folding>
                 <element signature="e#89#90#0" expanded="true" />
                 <element signature="e#107#108#0" expanded="true" />
@@ -50,8 +37,8 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="https://github.com/oneHs/TestGit">
+      <file pinned="false" current-in-tab="false">
+        <entry file="https://github.com/oneHs/TestGit.git">
           <provider selected="true" editor-type-id="httpFileEditor" />
         </entry>
       </file>
@@ -66,7 +53,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -132,6 +119,15 @@
               <item name="yyw" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="TestGit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestGit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="yyw" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="TtssTS" type="1a9f42e2:ClassTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -153,6 +149,7 @@
   </component>
   <component name="RecentsManager">
     <key name="OPEN_URL_DIALOG">
+      <recent name="https://github.com/oneHs/TestGit.git" />
       <recent name="https://github.com/oneHs/TestGit" />
     </key>
   </component>
@@ -181,7 +178,7 @@
       <workItem from="1557826591155" duration="651000" />
       <workItem from="1557841612983" duration="709000" />
       <workItem from="1557881320732" duration="576000" />
-      <workItem from="1557883331251" duration="3767000" />
+      <workItem from="1557883331251" duration="4139000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1557884371617</created>
@@ -211,16 +208,24 @@
       <option name="project" value="LOCAL" />
       <updated>1557886565273</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="第一次提交w">
+      <created>1557887163261</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1557887163261</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5703000" />
+    <option name="totallyTimeSpent" value="6075000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2600536" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2613941" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -290,7 +295,8 @@
     <MESSAGE value="Market3" />
     <MESSAGE value="第一次提交" />
     <MESSAGE value="第一次提交w" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次提交w" />
+    <MESSAGE value="第一次提交ws" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交ws" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/helloword.java">
@@ -311,10 +317,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="https://github.com/oneHs/TestGit">
+      <provider selected="true" editor-type-id="httpFileEditor" />
+    </entry>
+    <entry file="https://github.com/oneHs/TestGit.git">
+      <provider selected="true" editor-type-id="httpFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestGit.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/yyw/test/test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        <state relative-caret-position="75">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
           <folding>
             <element signature="e#86#87#0" expanded="true" />
             <element signature="e#134#135#0" expanded="true" />
@@ -325,19 +340,13 @@
     <entry file="file://$PROJECT_DIR$/src/com/yyw/test/TtssTS.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
-          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
           <folding>
             <element signature="e#89#90#0" expanded="true" />
             <element signature="e#107#108#0" expanded="true" />
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestGit.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="https://github.com/oneHs/TestGit">
-      <provider selected="true" editor-type-id="httpFileEditor" />
     </entry>
   </component>
   <component name="masterDetails">
